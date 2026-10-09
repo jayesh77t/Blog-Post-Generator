@@ -1,3 +1,8 @@
+<a href="https://blog-post-generator-ai.streamlit.app/">
+  <img src="BlogGenerator.gif" width="800" alt="Blog Generator GIF">
+</a>
+
+
 # AI Blog Generator (Outline -> Draft -> Polish Pipeline)
 
 
