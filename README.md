@@ -85,7 +85,7 @@ BLOG_PROJECT/
 
 ```bash
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/jayesh77t/Blog-Post-Generator.git
 
 cd BLOG_PROJECT
 
