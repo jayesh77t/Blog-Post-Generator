@@ -41,7 +41,6 @@ An interactive, multi-stage AI blog writing assistant built with **Streamlit**, 
 ```text
 
 BLOG_PROJECT/
-
 │
 ├── .venv/             # Virtual environment directory
 ├── Blog_Agent/
