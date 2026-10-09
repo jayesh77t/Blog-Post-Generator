@@ -40,7 +40,7 @@ An interactive, multi-stage AI blog writing assistant built with **Streamlit**, 
 
 ```text
 
-BLOG_PROJECT/
+BLOG_GENERATOR/
 │
 ├── .venv/             # Virtual environment directory
 ├── Blog_Agent/
